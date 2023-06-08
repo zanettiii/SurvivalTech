@@ -1,0 +1,1 @@
+function survival.tech:spectator/_tick
